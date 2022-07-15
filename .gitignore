@@ -1,3 +1,8 @@
+# ide
+.idea
+*.iml
+.vscode
+
 # dependencies
 node_modules
 package-lock.json
